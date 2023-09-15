@@ -1,4 +1,4 @@
-- 👋🏽 Hi, I’m Insha Sayani and I am a full-stack developer.
+- 👋🏽 Hi, I’m Insha Sayani and I am a full-stack engineer.
 - 💡 I’m interested in backend dev specifically systems/automation engineering and machine learning!
 - 🧩 I’m looking to collaborate on any projects that expand my knowledge and teach me something new ✨
 - 🦋 I’m currently learning AWS, Python, C# and Java for JavaScript.
